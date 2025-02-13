@@ -53,7 +53,7 @@ buildscript {
 plugins {
   // Android AGP
   // https://developer.android.com/studio/build#top-level
-  id("com.android.library") version '8.8.0' apply false
+  id("com.android.library") version '8.8.1' apply false
 
   // Fix Android build cache
   // https://github.com/gradle/android-cache-fix-gradle-plugin
